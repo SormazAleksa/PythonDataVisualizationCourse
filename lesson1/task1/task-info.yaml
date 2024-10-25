@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: task.md
+    visible: true
+  - name: task.py
+    visible: true
+  - name: __init__.py
+    visible: false
+    propagatable: false
+  - name: countries.csv
+    visible: true
+  - name: student_solution.py
+    visible: true
+  - name: tests/task.md
+    visible: true
+  - name: tests/test_task.py
+    visible: true
+    propagatable: false
+  - name: tests/__init__.py
+    visible: false
+    propagatable: false
+  - name: tests/student_solution.py
+    visible: true
+    propagatable: false
